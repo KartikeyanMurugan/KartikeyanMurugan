@@ -19,12 +19,14 @@ Practical calculators and helpers, written from a PCB designer's point of view.
 
 *Formulas reference IPC standards by clause. Always check the current revision of the standard for your project.*
 
-### ⚡ What I work on
-- HDI, blind / buried vias, controlled impedance
-- Power integrity and high-current boards
-- High-speed interfaces: USB 3.0, Ethernet
-- RF layouts
-- Design reviews and mentoring junior designers
+### ⚡ How I think about a board — schematic to finished product
+- **PCB design:** HDI, blind/buried vias, controlled impedance, USB 3.0, Ethernet, RF, high-current boards
+- **Hardware:** circuit understanding, component selection, power design
+- **Product view:** functionality, BOM cost, manufacturability (DFM), field reliability
+- **Code:** C, Python & JavaScript tools that automate repetitive design work
+
+### 🔋 Areas I explore
+Battery systems (LFP, BMS) · Solar power · LED lighting · Power electronics
 
 ### 🛠 Tools
 `Cadence Allegro` · `Altium Designer` · `CAM tools` · `PSpice` · `Python` · `JavaScript`

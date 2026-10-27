@@ -34,4 +34,4 @@ Practical calculators and helpers, written from a PCB designer's point of view.
 
 ---
 
-📍 Chennai, India · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+📍 Chennai, India · 💼 [LinkedIn](https://www.linkedin.com/in/karthikeyanmurugan1/)
